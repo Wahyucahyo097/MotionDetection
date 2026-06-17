@@ -33,7 +33,8 @@ Fitur utama:
 
 a) Buat environment (disarankan):
 ```bash
-
+python -m venv venv
+venv\Scripts\activate
 ```
 
 b) Install dependencies:
